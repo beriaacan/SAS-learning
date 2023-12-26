@@ -1,6 +1,7 @@
 # SAS-learning
 
-#SAS NEDİR?
+SAS NEDİR?
+
 SAS (Statistical Analysis System), istatistiksel analiz, veri yönetimi, veri madenciliği, raporlama, iş zekası ve daha birçok veri analizi alanında kullanılan bir yazılım ve dilidir.
 
 SAS, büyük ölçekli kurumsal çözümler ve endüstri standartları için kullanılan bir yazılım olup, bir dizi modül ve aracın bir araya getirilmesiyle geniş bir yetenek yelpazesi sunar. 
